@@ -1,0 +1,16 @@
+/.idea
+/app/static
+/bower_components
+/docs/build
+/htmlcov
+/logs
+/node_modules
+/out
+/private
+*.pyc
+.coverage
+local_settings.py
+monitor_flask.log
+nose2-junit.xml
+npm-debug.log
+Vagrantfile

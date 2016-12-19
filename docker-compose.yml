@@ -1,0 +1,8 @@
+angular:
+  container_name: angular
+  build: .
+  hostname: angular
+  ports:
+    - "5001:5001"
+  volumes:
+    - .:/opt/angular
